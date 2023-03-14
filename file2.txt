@@ -1,2 +1,6 @@
 #Hello world
+<<<<<<< HEAD
 This is B Chalapathi
+=======
+This is Chalapathi
+>>>>>>> 2662bc68b4bec1d3b8c53161a6082b8aef5dcea4
